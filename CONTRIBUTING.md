@@ -80,8 +80,8 @@ Group every template under a category folder, so the path is
 
 These are the categories. Pick the closest one:
 
-`customer-support`, `data`, `engineering`, `finance`, `it`, `lifestyle`,
-`media`, `misc`, `operations`, `product`, `sales`, `security`, `social-media`
+`data`, `engineering`, `finance`, `it`, `lifestyle`, `media`, `misc`,
+`operations`, `product`, `sales`, `security`, `social-media`, `support`
 
 A category folder can exist before anything lives in it, so finding an empty one
 is normal. Use `misc` only when nothing else fits.
