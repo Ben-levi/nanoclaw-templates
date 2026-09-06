@@ -80,7 +80,7 @@ Group every template under a category folder, so the path is
 
 These are the categories. Pick the closest one:
 
-`data`, `engineering`, `finance`, `it`, `lifestyle`, `media`, `misc`,
+`data`, `engineering`, `finance`, `hr`, `it`, `lifestyle`, `media`, `misc`,
 `operations`, `product`, `sales`, `security`, `social-media`, `support`
 
 A category folder can exist before anything lives in it, so finding an empty one
@@ -92,10 +92,6 @@ Before inventing one, check whether an existing category fits and reuse it. If
 you genuinely need a new one, keep it a single, lowercase, broadly-recognized
 business function, not a niche or product-specific label. The aim is a small,
 predictable set a newcomer can guess.
-
-Human resources is the one open question. A pull request is introducing `hr/`,
-and whether that or `human-resources/` is canonical will be settled after the
-September 2026 hackathon.
 
 ## No secrets, ever
 
