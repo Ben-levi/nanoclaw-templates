@@ -78,13 +78,20 @@ main [README](README.md#anatomy-of-a-template) for the full anatomy.
 Group every template under a category folder, so the path is
 `<category>/<template>/`.
 
-The categories in use today are `data`, `lifestyle`, `media`, `product` and
-`sales`, with `engineering` arriving in open pull requests.
+These are the categories. Pick the closest one:
 
-Before adding a new category, check whether an existing one fits and reuse it. If
+`data`, `engineering`, `finance`, `hr`, `it`, `lifestyle`, `media`, `misc`,
+`operations`, `product`, `sales`, `security`, `social-media`, `support`
+
+A category folder can exist before anything lives in it, so finding an empty one
+is normal. Use `misc` only when nothing else fits.
+
+Nothing in CI enforces this list yet, so treat it as the agreed set rather than a
+validated one. A category outside it will pass the checks and still be wrong.
+Before inventing one, check whether an existing category fits and reuse it. If
 you genuinely need a new one, keep it a single, lowercase, broadly-recognized
 business function, not a niche or product-specific label. The aim is a small,
-predictable set of categories a newcomer can guess.
+predictable set a newcomer can guess.
 
 ## No secrets, ever
 
